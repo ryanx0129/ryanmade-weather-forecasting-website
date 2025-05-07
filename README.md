@@ -1,3 +1,26 @@
+# Ryan's Weather Forecasting Website
+Learning how to build weather forecast website
+
+## Overview
+Ryan's Weather Forecasting Website is a React-based web application that allows users to check the current weather conditions and view forecast trends for any city. Users can search for a city and view detailed weather data such as temperature, humidity, wind speed, and weather conditions, all presented with clean visualizations.
+
+## Features
+- 🌎 Detect user's current location automatically (defaults to London if permission is denied)
+- 🔍 Search and display weather information by city name
+- 🌡️ Display current weather:
+  - Weather condition
+  - Temperature
+  - Humidity
+  - Wind speed
+  - Date and time
+- 📈 Visualize temperature, humidity, and weather condition changes over several days using charts
+
+## Technologies Used
+- JavaScript
+- React
+- HTML5 / CSS3
+- Weather API (e.g., OpenWeatherMap or similar)
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
